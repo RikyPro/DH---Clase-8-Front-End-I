@@ -1,0 +1,100 @@
+
+.background-header {
+    background-color: #e6e6e6;
+}
+
+.batman {
+    text-align: center;
+}
+
+.background-title {
+    background-color: #c4c4c4;
+    height: 60px;
+    width: 1440px;
+    top: 188px;
+    border-radius: 0px;
+
+}
+
+.background-title h1 {
+    position: absolute;
+    text-align: center;
+    width: 1013px;
+    height: 29.87px;
+    left: 213px;
+    color:#005677;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50%;
+}
+
+.background-subtitle {
+    background-color: #c4c4c4;
+    height: 60px;
+    width: 1440px;
+    top: 188px;
+}
+
+.background-subtitle h3 {
+    width: 1013px;
+    height: 29.87px;
+    left: 213px;
+    color:#005677;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 3;
+}
+
+span {
+    margin-left: 79px;
+}
+
+.datos-personales {
+    line-height: 30px;
+}
+
+.experiencia-laboral li {
+    margin-top: 20px;
+}
+
+.background-footer {
+    background-color: #005677;
+    height: 60px;
+    width: 1440px;
+    top: 188px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text-footer {
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 145px;
+}
+
+
+/*
+.background-footer {
+    background-color: #005677;
+    height: 60px;
+    width: 1440px;
+    top: 188px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text-footer {
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 145px;
+}
+
+.img-footer {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 20px;
+    height: 20px;
+}*/
