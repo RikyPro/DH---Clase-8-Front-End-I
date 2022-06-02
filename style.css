@@ -1,9 +1,10 @@
 
 .background-header {
     background-color: #e6e6e6;
+    background-image: url(./img/husky.jpg);
 }
 
-.batman {
+.foto {
     text-align: center;
 }
 
@@ -65,36 +66,10 @@ span {
     justify-content: space-around;
 }
 
-.text-footer {
+.text-footer a {
     color: #FFFFFF;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     width: 145px;
+    text-decoration: none;
 }
-
-
-/*
-.background-footer {
-    background-color: #005677;
-    height: 60px;
-    width: 1440px;
-    top: 188px;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-.text-footer {
-    color: #FFFFFF;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    width: 145px;
-}
-
-.img-footer {
-    display: flex;
-    align-items: center;
-    justify-content:center;
-    width: 20px;
-    height: 20px;
-}*/
